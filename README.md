@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/yepyaeaungypa" target="blank"><img src="https://img.shields.io/twitter/follow/yepyaeaungypa?logo=twitter&style=for-the-badge" alt="yepyaeaungypa" /></a> </p>
 
-- 🌱 I’m currently learning **Laravel, Vue**
+- 🌱 I’m currently learning **React, Vue**
 
 - 👨‍💻 All of my projects are available at [https://github.com/YePyaeAung](https://github.com/YePyaeAung)
 
