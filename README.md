@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/YePyaeAung](https://github.com/YePyaeAung)
 
-- 💬 Ask me about **PHP, Javascript, MySQL**
+- 💬 Ask me about **PHP, Laravel, Javascript, MySQL**
 
 - 📫 How to reach me **https://www.facebook.com/yepyae.ag/**
 
