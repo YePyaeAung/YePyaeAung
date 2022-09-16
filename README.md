@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **https://www.facebook.com/yepyae.ag/**
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YePyaeAung&show_icons=true&theme=tokyonight)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
