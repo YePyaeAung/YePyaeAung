@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/yepyaeaungypa" target="blank"><img src="https://img.shields.io/twitter/follow/yepyaeaungypa?logo=twitter&style=for-the-badge" alt="yepyaeaungypa" /></a> </p>
 
-- 🌱 I’m currently learning **Laravel, Vue, React, Node**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 👨‍💻 All of my projects are available at [https://github.com/YePyaeAung](https://github.com/YePyaeAung)
 
-- 💬 Ask me about **HTML, CSS, Bootstrap, PHP, Javascript, MySQL**
+- 💬 Ask me about **HTML, CSS, Bootstrap, MUI, PHP, Laravel, React, Express, Node, Javascript, MySQL, MongoDB**
 
 - 📫 How to reach me **https://www.facebook.com/yepyae.ag/**
 
