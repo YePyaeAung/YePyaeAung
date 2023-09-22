@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/YePyaeAung](https://github.com/YePyaeAung)
 
-- 💬 Ask me about **HTML, CSS, Bootstrap, MUI, PHP, Laravel, React, Express, Node, Javascript, MySQL, MongoDB**
+- 💬 Ask me about **HTML, CSS, Bootstrap, MUI, PHP, Laravel, Javascript, React, Express, Node, MySQL, MongoDB**
 
 - 📫 How to reach me **https://www.facebook.com/yepyae.ag/**
 
